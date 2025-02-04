@@ -6,6 +6,3 @@
   NODE_VERSION = "16"
   NPM_VERSION = "8"
   FLUTTER_VERSION = "3.13.0"
-
-[[plugins]]
-  package = "@netlify/plugin-build"
